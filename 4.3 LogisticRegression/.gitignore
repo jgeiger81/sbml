@@ -1,0 +1,26 @@
+# created by virtualenv automatically
+# PyCharm-specific files
+.idea/
+.vscode/
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# General operating system files
+.DS_Store
+Thumbs.db
+
+# Additional common files to ignore
+dist/
+build/
+*.egg-info/
